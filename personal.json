@@ -1,0 +1,61 @@
+{
+    "docentes": [
+        {
+            "cuil": "123456789",
+            "apellido": "Gomez",
+            "nombre": "Juan",
+            "sueldo_basico": 50000,
+            "antiguedad": 5,
+            "carrera": "Ingenieria",
+            "cargo": "Exclusivo",
+            "catedra": "Algoritmos"
+        },
+        {
+            "cuil": "987654123",
+            "apellido": "Gonzalez",
+            "nombre": "Laura",
+            "sueldo_basico": 35000,
+            "antiguedad": 2,
+            "carrera": "Arquitectura",
+            "cargo": "Semiexclusivo",
+            "catedra": "Diseño"
+        }
+    ],
+    "apoyo": [
+        {
+            "cuil": "987654321",
+            "apellido": "Lopez",
+            "nombre": "Maria",
+            "sueldo_basico": 45000,
+            "antiguedad": 3,
+            "categoria": "Categoria 2"
+        }
+    ],
+    "investigadores": [
+        {
+            "cuil": "543216789",
+            "apellido": "Perez",
+            "nombre": "Pedro",
+            "sueldo_basico": 40000,
+            "antiguedad": 8,
+            "area_investigacion": "Ciencias Sociales",
+            "tipo_investigacion": "Cualitativa"
+        }
+    ],
+    "docentes_investigadores": [
+        {
+            "cuil": "987654321",
+            "apellido": "Lopez",
+            "nombre": "Maria",
+            "sueldo_basico": 45000,
+            "antiguedad": 3,
+            "carrera": "Ingenieria",
+            "cargo": "Exclusivo",
+            "catedra": "Algoritmos",
+            "area_investigacion": "Inteligencia Artificial",
+            "tipo_investigacion": "Aplicada",
+            "categoria": "II",
+            "importe_extra": 2000
+        }
+    ]
+}
